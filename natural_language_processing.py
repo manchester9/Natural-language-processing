@@ -111,7 +111,8 @@ def tag_entities():
 
 
 
-
+def get_tag_entries():
+    pass
 
 
 
