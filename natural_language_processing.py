@@ -16,6 +16,7 @@ from gensim.models import Word2Vec
 from nltk.corpus import stopwords
 from sklearn.cluster import KMeans
 from sklearn.ensemble import RandomForestClassifier
+from tkinter import *
 #%matplotlib inline
 
 path = 'C:\\Users\\Roland.Ferrao\\Desktop\\Desktop\\Miscellaneous\\Mental\\Career\\Python\\Natural language processing\\reviews_Grocery_and_Gourmet_Food_5.json.gz'
