@@ -116,6 +116,13 @@ def get_tag_entries():
     pass
 
 
+# Build models
+def classification():
+    pass 
+
+def document_classifier():
+    pass 
+
 
 
 
