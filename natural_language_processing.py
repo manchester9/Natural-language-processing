@@ -17,6 +17,8 @@ from nltk.corpus import stopwords
 from sklearn.cluster import KMeans
 from sklearn.ensemble import RandomForestClassifier
 from tkinter import *
+import nltk 
+nltk.download('all')
 #%matplotlib inline
 
 path = 'C:\\Users\\Roland.Ferrao\\Desktop\\Desktop\\Miscellaneous\\Mental\\Career\\Python\\Natural language processing\\reviews_Grocery_and_Gourmet_Food_5.json.gz'
@@ -40,6 +42,7 @@ print(df)
 def count_lines():
     pass
 
+
 #Get columns name
 def get_column_names():
     pass
@@ -50,13 +53,11 @@ def get_data_type():
     pass
 
 
-
 #Get unique values for columns: 
 def get_unique_values():
     pass
     
-    
-    
+     
 #Save the data frame to an excel file
 def write_data():
     pass
