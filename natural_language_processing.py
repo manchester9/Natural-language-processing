@@ -124,6 +124,12 @@ def document_classifier():
     pass 
 
 
+def google_burt():
+    pass 
+
+def vader_statistics():
+    pass 
+
 
 
 
