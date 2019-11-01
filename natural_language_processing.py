@@ -131,6 +131,12 @@ def google_burt():
 def vader_statistics():
     pass 
 
+def build_final_model():
+    pass 
+
+
+def external_adjective():
+    pass 
 
 
 
