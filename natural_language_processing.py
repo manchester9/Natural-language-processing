@@ -138,6 +138,19 @@ def build_final_model():
 def external_adjective():
     pass 
 
+def internal_adjectives():
+    pass 
+
+
+def main():
+    pass 
+
+
+if __name__ == "__main__":
+    main()
+
+
+
 
 
 
