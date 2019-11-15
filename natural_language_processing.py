@@ -43,8 +43,9 @@ def count_lines():
     pass
 
 
-#Get columns name
+#Descriptive stats
 def get_column_names():
+    """Descriptive stats on our dataframe"""
     pass
 
 
