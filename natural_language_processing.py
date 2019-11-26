@@ -107,11 +107,12 @@ def extract_adjectives():
     pass
 
 
-
 #Tag named entities for the first ten reviews
 def tag_entities():
     pass
 
+def linguistic_markers():
+    pass 
 
 
 def get_tag_entries():
@@ -126,11 +127,13 @@ def document_classifier():
     pass 
 
 
-def google_burt():
+def google_bert():
     pass 
+
 
 def vader_statistics():
     pass 
+
 
 def build_final_model():
     pass 
@@ -138,6 +141,7 @@ def build_final_model():
 
 def external_adjective():
     pass 
+
 
 def internal_adjectives():
     pass 
