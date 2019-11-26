@@ -115,6 +115,10 @@ def linguistic_markers():
     pass 
 
 
+def partition_markers():
+    pass 
+
+
 def get_tag_entries():
     pass
 
