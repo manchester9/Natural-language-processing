@@ -72,7 +72,8 @@ def open_excel_file():
 def extract_rows():
     pass
 
-
+def standardization():
+    pass 
 
 #Check if there are reviews written by the same reviewer
 def reviewer_check():
