@@ -21,6 +21,7 @@ import nltk
 nltk.download('all')
 import scrapy
 import requests
+import beautifulsoup4
 
 #%matplotlib inline
 
