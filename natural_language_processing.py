@@ -19,6 +19,9 @@ from sklearn.ensemble import RandomForestClassifier
 from tkinter import *
 import nltk 
 nltk.download('all')
+import scrapy
+import requests
+
 #%matplotlib inline
 
 path = 'C:\\Users\\Roland.Ferrao\\Desktop\\Desktop\\Miscellaneous\\Mental\\Career\\Python\\Natural language processing\\reviews_Grocery_and_Gourmet_Food_5.json.gz'
