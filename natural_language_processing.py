@@ -7,21 +7,23 @@ Created on Thu Sep 28 10:27:11 2017
 
 import pandas as pd
 import numpy as np
-import nltk
-import sklearn
 import matplotlib
-import gzip
 from matplotlib import pyplot as plt
-from gensim.models import Word2Vec
-from nltk.corpus import stopwords
+
+import sklearn
 from sklearn.cluster import KMeans
 from sklearn.ensemble import RandomForestClassifier
-from tkinter import *
-import nltk 
-nltk.download('all')
+
 import scrapy
 import requests
 import beautifulsoup4
+import nltk
+nltk.download('all')
+from gensim.models import Word2Vec
+from nltk.corpus import stopwords
+
+import gzip
+from tkinter import *
 
 #%matplotlib inline
 
