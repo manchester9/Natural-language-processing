@@ -12,7 +12,7 @@ This repo contains books, courses, websites, articles, and nanodegrees that have
 
 ### **Books**
 1. [Natural Language Processing With Python](https://www.amazon.com/Steven-Bird-ebook/dp/B0043D2E22/ref=sr_1_6?crid=33RHLQRGGG8NC&dchild=1&keywords=natural+language+processing&qid=1589399723&sprefix=natural+langauge+processing%2Caps%2C-1&sr=8-6)
-2. [TBD]()
+2. [Natural Language Processing in Action](https://www.amazon.com/Natural-Language-Processing-Action-Understanding/dp/1617294632/ref=sr_1_1_sspa?dchild=1&keywords=natural+language+processing&qid=1591669312&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExT1VYOFRMUUZJNTcwJmVuY3J5cHRlZElkPUEwODcwMTA3MzhPS0k4QTJUQUdUMiZlbmNyeXB0ZWRBZElkPUEwNDc1NzM4MVlHUVRNU0xOTVdUWSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 
 
 ### **Courses**
